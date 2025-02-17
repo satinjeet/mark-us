@@ -21,4 +21,4 @@ Coming Soon.
 
 ### Releases
 
-Release list can be found here: [](./releases.md), will be updated soon 😃😃😃😃.
+Release list can be found here: [Releases](./releases.md), will be updated soon 😃😃😃😃.
